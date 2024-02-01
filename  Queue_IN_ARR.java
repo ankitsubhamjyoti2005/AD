@@ -82,3 +82,21 @@ public class Queue_IN_ARR {
         System.out.println("Front: " + queue.front());
     }
 }
+
+
+[01/02, 8:51 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/8514811
+[01/02, 8:51 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9569098
+[01/02, 8:51 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9473673
+[01/02, 8:52 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/10059647
+[01/02, 8:53 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9043195
+[01/02, 8:53 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9367546
+[01/02, 8:55 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/10000702
+[01/02, 8:55 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9415247
+[01/02, 8:56 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9448848
+[01/02, 8:56 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9060143
+[01/02, 8:56 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/10118666
+[01/02, 8:56 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/10041341
+[01/02, 8:56 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9662572
+[01/02, 8:57 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/9322323
+[01/02, 9:10 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/10003233
+[01/02, 9:11 am] Ankit Subhamjyoti: https://ieeexplore.ieee.org/document/7800363
